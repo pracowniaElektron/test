@@ -1,2 +1,4 @@
 Imie Nazwisko
 z 3TP
+
+not main
